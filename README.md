@@ -1,6 +1,6 @@
 # Books
 
-A small public-domain library, hosted as a static site so it's readable from any browser with no app or account needed.
+A small public-domain library, hosted as a static site so it's readable from any browser with no app or account needed (https://johnoxley.github.io/books/).
 
 ## Contents
 
