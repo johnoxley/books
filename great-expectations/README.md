@@ -2,7 +2,7 @@
 
 by Charles Dickens
 
-Public domain. Text sourced from [Project Gutenberg](https://www.gutenberg.org/ebooks/1400) (eBook #1400), split into one chapter per file.
+Public domain. Text sourced from [Project Gutenberg](https://www.gutenberg.org/ebooks/1400) (eBook #1400), split into one chapter per file. For a single-page reading view (matching the other books in this repo), see [`index.html`](index.html) or read it live at https://johnoxley.github.io/books/great-expectations/.
 
 ## Contents
 
