@@ -1,12 +1,14 @@
 # 2026 Reading List
 
 **Goal: 24 books by 31 December 2026**
-**Progress: 13/24 finished (54%)**
+**Progress: 15/24 finished (63%)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| [Of Mice and Men](https://github.com/johnoxley/knowledge-base) | John Steinbeck | 1937 | 2026-09 | 6/10 |
+| [The Woman in White](the-woman-in-white) | Wilkie Collins | 1859 | 2026-09 | 8/10 |
 | [The Yellow Wall-Paper](https://github.com/johnoxley/knowledge-base) | Charlotte Perkins Gilman | 1892 | 2026-09 | 5.5/10 |
 | [Great Expectations](great-expectations) | Charles Dickens | 1861 | 2026-09 | 10/10 |
 | [Strange Case of Dr Jekyll and Mr Hyde](https://github.com/johnoxley/knowledge-base) | Robert Louis Stevenson | 1886 | 2026-08 | 8.5/10 |
