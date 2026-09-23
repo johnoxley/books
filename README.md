@@ -4,7 +4,6 @@ A small public-domain library, hosted as a static site so it's readable from any
 
 ## Contents
 
-- **The Woman in White** — Wilkie Collins. Public domain. Text sourced from [Project Gutenberg](https://www.gutenberg.org/ebooks/583), split into 68 per-chapter markdown files under [`the-woman-in-white/`](the-woman-in-white/README.md), grouped by the book's three "Epochs" and preserving which narrator tells each chapter (the book is narrated by multiple characters). Single-page `index.html` for the Pages site, same convention as the others.
 - **2026 reading list** — see [`reading-list.md`](reading-list.md).
 
 ## Reference

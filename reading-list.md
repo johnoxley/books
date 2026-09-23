@@ -9,7 +9,7 @@
 |---|---|---|---|---|
 | [Candide](https://github.com/johnoxley/knowledge-base) | Voltaire | 1759 | 2026-09 | 6/10 |
 | [Of Mice and Men](https://github.com/johnoxley/knowledge-base) | John Steinbeck | 1937 | 2026-09 | 6/10 |
-| [The Woman in White](the-woman-in-white) | Wilkie Collins | 1859 | 2026-09 | 8/10 |
+| [The Woman in White](https://github.com/johnoxley/knowledge-base) | Wilkie Collins | 1859 | 2026-09 | 8/10 |
 | [The Yellow Wall-Paper](https://github.com/johnoxley/knowledge-base) | Charlotte Perkins Gilman | 1892 | 2026-09 | 5.5/10 |
 | [Great Expectations](great-expectations) | Charles Dickens | 1861 | 2026-09 | 10/10 |
 | [Strange Case of Dr Jekyll and Mr Hyde](https://github.com/johnoxley/knowledge-base) | Robert Louis Stevenson | 1886 | 2026-08 | 8.5/10 |
