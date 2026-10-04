@@ -5,6 +5,7 @@ A small public-domain library, hosted as a static site so it's readable from any
 ## Contents
 
 - **2026 reading list** — see [`reading-list.md`](reading-list.md).
+- **Middlemarch** (George Eliot) — see [`middlemarch/`](middlemarch/). Public domain, sourced from [Standard Ebooks](https://standardebooks.org/ebooks/george-eliot/middlemarch). Starts at Chapter XVII, not the beginning of the novel.
 
 ## Reference
 
