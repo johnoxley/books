@@ -1,12 +1,13 @@
 # 2026 Reading List
 
-**Goal: 24 books by 31 December 2026**
-**Progress: 19/24 finished (79%)**
+**Goal: 25 books by 31 December 2026**
+**Progress: 20/25 finished (80%)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| The Cask of Amontillado | Edgar Allan Poe | 1846 | 2026-10 | 5.5/10 |
 | Middlemarch | George Eliot | 1871–72 | 2026-10 | 6.5/10 |
 | Notes from the Underground | Fyodor Dostoevsky | 1864 | 2026-09 | 7.5/10 |
 | The Moon and Sixpence | W. Somerset Maugham | 1919 | 2026-09 | 7/10 |
