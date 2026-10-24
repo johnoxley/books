@@ -1,12 +1,13 @@
 # 2026 Reading List
 
 **Goal: 26 books by 31 December 2026**
-**Progress: 23/26 finished (88%)**
+**Progress: 24/26 finished (92%)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| A Month in the Country | J. L. Carr | 1980 | 2026-10 | 8.5/10 |
 | The Lathe of Heaven | Ursula K. Le Guin | 1971 | 2026-10 | 5/10 |
 | The Stranger | Albert Camus | 1942 | 2026-10 | 4.8/10 |
 | Inspiration | Ben Bova | 1994 | 2026-10 | 4.5/10 |
