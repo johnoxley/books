@@ -1,12 +1,13 @@
 # 2026 Reading List
 
 **Goal: 26 books by 31 December 2026**
-**Progress: 24/26 finished (92%)**
+**Progress: 25/26 finished (96%)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| The Death of Ivan Ilyich | Leo Tolstoy | 1886 | 2026-10 | 7.2/10 |
 | A Month in the Country | J. L. Carr | 1980 | 2026-10 | 8.5/10 |
 | The Lathe of Heaven | Ursula K. Le Guin | 1971 | 2026-10 | 5/10 |
 | The Stranger | Albert Camus | 1942 | 2026-10 | 4.8/10 |
