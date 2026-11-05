@@ -1,12 +1,13 @@
 # 2026 Reading List
 
 **Goal: 26 books by 31 December 2026**
-**Progress: 27 finished (goal of 26 met)**
+**Progress: 28 finished (goal of 26 met)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| Invisible Cities | Italo Calvino | 1972 | 2026-11 | 6/10 |
 | A River Runs Through It | Norman Maclean | 1976 | 2026-11 | 7.4/10 |
 | The Great Gatsby | F. Scott Fitzgerald | 1925 | 2026-10 | 5.5/10 |
 | The Death of Ivan Ilyich | Leo Tolstoy | 1886 | 2026-10 | 7.2/10 |
