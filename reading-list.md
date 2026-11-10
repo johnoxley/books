@@ -1,12 +1,13 @@
 # 2026 Reading List
 
 **Goal: 26 books by 31 December 2026**
-**Progress: 29 finished (goal of 26 met)**
+**Progress: 30 finished (goal of 26 met)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| Sandman | E. T. A. Hoffmann | 1816 | 2026-11 | 4.8/10 |
 | The Remains of the Day | Kazuo Ishiguro | 1989 | 2026-11 | 8.2/10 |
 | Invisible Cities | Italo Calvino | 1972 | 2026-11 | 6/10 |
 | A River Runs Through It | Norman Maclean | 1976 | 2026-11 | 7.4/10 |
