@@ -1,7 +1,7 @@
 # 2026 Reading List
 
-**Goal: 26 books by 31 December 2026**
-**Progress: 30 finished (goal of 26 met)**
+**Goal: 27 books by 31 December 2026**
+**Progress: 30 finished (goal of 27 met)**
 
 ## Finished (latest read first)
 
