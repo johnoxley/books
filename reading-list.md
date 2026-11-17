@@ -1,12 +1,13 @@
 # 2026 Reading List
 
-**Goal: 27 books by 31 December 2026**
-**Progress: 32 finished (goal of 27 met)**
+**Goal: 28 books by 31 December 2026**
+**Progress: 33 finished (goal of 28 met)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| The Tell-Tale Heart | Edgar Allan Poe | 1843 | 2026-11 | 6.5/10 |
 | The Bell Jar | Sylvia Plath | 1963 | 2026-11 | 6.4/10 |
 | The Quiet American | Graham Greene | 1955 | 2026-11 | 6.7/10 |
 | Sandman | E. T. A. Hoffmann | 1816 | 2026-11 | 4.8/10 |
