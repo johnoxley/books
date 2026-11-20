@@ -1,12 +1,13 @@
 # 2026 Reading List
 
 **Goal: 28 books by 31 December 2026**
-**Progress: 33 finished (goal of 28 met)**
+**Progress: 34 finished (goal of 28 met)**
 
 ## Finished (latest read first)
 
 | Title | Author | Year Released | Read (YYYY-MM) | Rating |
 |---|---|---|---|---|
+| Heart of Darkness | Joseph Conrad | 1899 | 2026-11 | 5/10 |
 | The Tell-Tale Heart | Edgar Allan Poe | 1843 | 2026-11 | 6.5/10 |
 | The Bell Jar | Sylvia Plath | 1963 | 2026-11 | 6.4/10 |
 | The Quiet American | Graham Greene | 1955 | 2026-11 | 6.7/10 |
